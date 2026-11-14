@@ -6,7 +6,7 @@ const CONFIG = {
   videoTitle: "Cheddar Cheese",
   song: "Just the Two of Us", artist: "Grover Washington Jr., Bill Withers",
   audioUrl: "",              // optional mp3 link
-  photos: ["","","","","","",""],   // 7 image URLs (or use the add-photos button)
+  photos: ["11.jpeg","77.jpeg","66.jpeg","55.jpeg","44.jpeg","33.jpeg","22.jpeg"],   // 7 image URLs (or use the add-photos button)
   message: "Sometimes I catch myself smiling at my phone just because of you. You make ordinary days feel softer and happier, and honestly, having you in my life is one of my favorite things.",
   place: "Saigon 26", caption: "Memories, special", voiceUrl: ""
 };
