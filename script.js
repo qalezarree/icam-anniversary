@@ -1,6 +1,6 @@
 /* ===== EDIT THIS PART ===== */
 const CONFIG = {
-  theme: "sweet",            // "sweet" (pink) or "red" (like the video)
+  theme: "red",            // "sweet" (pink) or "red" (like the video)
   code: "1811",
   from: "baby", to: "sayang",
   videoTitle: "Cheddar Cheese",
