@@ -4,11 +4,11 @@ const CONFIG = {
   code: "1811",
   from: "baby", to: "sayang",
   videoTitle: "Cheddar Cheese",
-  song: "Just the Two of Us", artist: "Grover Washington Jr., Bill Withers",
+  song: "old love", artist: "Grover Washington Jr., Bill Withers",
   videoUrl: "special.mp4"
   photos: ["11.jpeg","77.jpeg","66.jpeg","55.jpeg","44.jpeg","33.jpeg","22.jpeg"],   // 7 image URLs (or use the add-photos button)
   message: "Sometimes I catch myself smiling at my phone just because of you. You make ordinary days feel softer and happier, and honestly, having you in my life is one of my favorite things.",
-  place: "Saigon 26", caption: "Memories, special", voiceUrl: ""
+  place: "Saigon 26", caption: "Memories, special", videoUrl: "special.mp4"
 };
 /* ========================== */
 const $=id=>document.getElementById(id), R=a=>a[Math.floor(Math.random()*a.length)], rnd=(a,b)=>a+Math.random()*(b-a);
