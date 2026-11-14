@@ -114,3 +114,4 @@ html,body{height:100%;overflow:hidden;background:#000;font-family:'Playfair Disp
 .bq{animation:bloom 1.8s ease-out both,sway 3.5s 1.8s ease-in-out infinite}
 @keyframes bloom{from{transform:scale(.1);opacity:0}}
 .letter p{text-shadow:0 0 1px currentColor}
+.card video{width:100%;max-height:60vh;border-radius:12px;display:block;background:#000}
